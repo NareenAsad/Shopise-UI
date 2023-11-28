@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_3/utils/custom_widget.dart';
+import 'package:flutter_application_3/utils/util.dart';
 
 class CategoryPage extends StatelessWidget {
   Map<String, dynamic> category;
@@ -14,7 +15,15 @@ class CategoryPage extends StatelessWidget {
     List<Map<String, dynamic>> products = category["products"];
     return Scaffold(
         appBar: AppBar(
-          title: Text(category["name"]),
+          centerTitle: true,
+          title: Text(
+            category["name"],
+            style: TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+                fontFamily: 'FjallaOne',
+                color: purple),
+          ),
         ),
         body: Center(
           child: Container(

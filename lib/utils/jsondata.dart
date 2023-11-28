@@ -10,7 +10,7 @@ final Map<String, dynamic> fashionData = {
           "price": 59.99,
           "description":
               "Ideal for your morning jog, these running sneakers provide comfort and support.",
-          "imageUrl": "assets/images/shoes.jpeg",
+          "imageUrl": "assets/images/shoes1.jpeg",
         },
         {
           "id": 12,
@@ -18,7 +18,7 @@ final Map<String, dynamic> fashionData = {
           "price": 49.99,
           "description":
               "Slip into style with these casual loafers, perfect for a laid-back day out.",
-          "imageUrl": "assets/images/shoes1.jpeg",
+          "imageUrl": "assets/images/shoes2.jpg",
         },
         {
           "id": 13,
@@ -26,7 +26,7 @@ final Map<String, dynamic> fashionData = {
           "price": 69.99,
           "description":
               "Dominate the court with these high-top basketball shoes designed for performance.",
-          "imageUrl": "assets/images/shoes2.jpeg",
+          "imageUrl": "assets/images/shoes3.jpg",
         },
         {
           "id": 14,
@@ -34,7 +34,7 @@ final Map<String, dynamic> fashionData = {
           "price": 79.99,
           "description":
               "Elevate your formal look with these leather oxford shoes, a timeless classic.",
-          "imageUrl": "assets/images/shoes3.jpeg",
+          "imageUrl": "assets/images/shoes4.jpg",
         },
         {
           "id": 15,
@@ -42,7 +42,7 @@ final Map<String, dynamic> fashionData = {
           "price": 39.99,
           "description":
               "Easy-going style meets comfort in these slip-on canvas shoes for any casual day.",
-          "imageUrl": "assets/images/shoes4.jpeg",
+          "imageUrl": "assets/images/shoes5.jpg",
         },
         {
           "id": 16,
@@ -50,7 +50,7 @@ final Map<String, dynamic> fashionData = {
           "price": 89.99,
           "description":
               "Make a fashion statement with these fashionable boots, perfect for any season.",
-          "imageUrl": "assets/images/shoes5.jpeg",
+          "imageUrl": "assets/images/shoes6.jpg",
         },
         {
           "id": 17,
@@ -58,7 +58,7 @@ final Map<String, dynamic> fashionData = {
           "price": 99.99,
           "description":
               "Conquer the trails with these durable hiking shoes, built for adventure.",
-          "imageUrl": "assets/images/shoes6.jpeg",
+          "imageUrl": "assets/images/shoes7.jpg",
         },
         {
           "id": 18,
@@ -66,7 +66,7 @@ final Map<String, dynamic> fashionData = {
           "price": 74.99,
           "description":
               "Step out in style with these classic brogues, a versatile addition to your wardrobe.",
-          "imageUrl": "assets/images/shoes7.jpeg",
+          "imageUrl": "assets/images/shoes8.jpg",
         },
         {
           "id": 19,
@@ -74,7 +74,7 @@ final Map<String, dynamic> fashionData = {
           "price": 54.99,
           "description":
               "Show off your skills with these skateboard shoes, combining style and functionality.",
-          "imageUrl": "assets/images/shoes8.jpeg",
+          "imageUrl": "assets/images/shoes9.jpg",
         },
         {
           "id": 20,
@@ -82,7 +82,7 @@ final Map<String, dynamic> fashionData = {
           "price": 29.99,
           "description":
               "Enjoy the sunshine with these comfortable sandals, perfect for a day at the beach.",
-          "imageUrl": "assets/images/shoes9.jpeg",
+          "imageUrl": "assets/images/shoes10.jpg",
         },
       ],
     },
@@ -104,7 +104,7 @@ final Map<String, dynamic> fashionData = {
           "price": 59.99,
           "description":
               "Elevate your style with these platform sandals, adding height and glamour.",
-          "imageUrl": "assets/images/heels2.jpg",
+          "imageUrl": "assets/images/heels02.jpg",
         },
         {
           "id": 23,
@@ -112,7 +112,7 @@ final Map<String, dynamic> fashionData = {
           "price": 79.99,
           "description":
               "Secure your look with these ankle strap heels, a fashionable choice for any occasion.",
-          "imageUrl": "assets/images/heels3.jpg",
+          "imageUrl": "assets/images/heels03.jpg",
         },
         {
           "id": 24,
@@ -120,7 +120,7 @@ final Map<String, dynamic> fashionData = {
           "price": 89.99,
           "description":
               "Stay on-trend with these block heel booties, combining style and comfort.",
-          "imageUrl": "assets/images/heels4.jpg",
+          "imageUrl": "assets/images/heels04.jpg",
         },
         {
           "id": 25,
@@ -128,7 +128,7 @@ final Map<String, dynamic> fashionData = {
           "price": 49.99,
           "description":
               "Easy-going style meets comfort in these wedge sandals, perfect for casual outings.",
-          "imageUrl": "assets/images/heels5.jpg",
+          "imageUrl": "assets/images/heels05.jpg",
         },
         {
           "id": 26,
@@ -136,7 +136,7 @@ final Map<String, dynamic> fashionData = {
           "price": 74.99,
           "description":
               "Show off your pedicure with these peep-toe mules, a chic addition to your wardrobe.",
-          "imageUrl": "assets/images/heels6.jpg",
+          "imageUrl": "assets/images/heels06.jpg",
         },
         {
           "id": 27,
@@ -144,7 +144,7 @@ final Map<String, dynamic> fashionData = {
           "price": 64.99,
           "description":
               "Add a touch of sophistication with these slingback heels, suitable for any event.",
-          "imageUrl": "assets/images/heels7.jpg",
+          "imageUrl": "assets/images/heels07.jpg",
         },
         {
           "id": 28,
@@ -152,7 +152,7 @@ final Map<String, dynamic> fashionData = {
           "price": 54.99,
           "description":
               "Embrace elegance with these kitten heel pumps, a timeless choice for formal occasions.",
-          "imageUrl": "assets/images/heels3.jpg",
+          "imageUrl": "assets/images/heels08.jpg",
         },
         {
           "id": 29,
@@ -160,7 +160,7 @@ final Map<String, dynamic> fashionData = {
           "price": 99.99,
           "description":
               "Make a statement with these open-toe boots, a versatile option for any season.",
-          "imageUrl": "assets/images/heels5.jpg",
+          "imageUrl": "assets/images/heels09.jpg",
         },
         {
           "id": 30,
@@ -168,7 +168,7 @@ final Map<String, dynamic> fashionData = {
           "price": 69.99,
           "description":
               "Stay on the cutting edge of fashion with these chunky heel sandals, perfect for a bold look.",
-          "imageUrl": "assets/images/heels1.jpg",
+          "imageUrl": "assets/images/heels10.jpg",
         },
       ],
     },
@@ -190,7 +190,7 @@ final Map<String, dynamic> fashionData = {
           "price": 89.99,
           "description":
               "Stay casual and stylish with this timeless denim jacket, a versatile wardrobe staple.",
-          "imageUrl": "assets/images/jackets2.jpg",
+          "imageUrl": "assets/images/jackets02.jpg",
         },
         {
           "id": 33,
@@ -198,7 +198,7 @@ final Map<String, dynamic> fashionData = {
           "price": 119.99,
           "description":
               "Keep warm in style with this cozy puffer jacket, perfect for chilly days.",
-          "imageUrl": "assets/images/jackets3.jpg",
+          "imageUrl": "assets/images/jackets03.jpg",
         },
         {
           "id": 34,
@@ -206,7 +206,7 @@ final Map<String, dynamic> fashionData = {
           "price": 99.99,
           "description":
               "Add an edge to your look with this trendy bomber jacket, a must-have for street style.",
-          "imageUrl": "assets/images/jackets4.jpg",
+          "imageUrl": "assets/images/jackets04.jpg",
         },
         {
           "id": 35,
@@ -214,7 +214,7 @@ final Map<String, dynamic> fashionData = {
           "price": 129.99,
           "description":
               "Elevate your outerwear collection with this sophisticated trench coat, a classic choice.",
-          "imageUrl": "assets/images/jackets5.jpg",
+          "imageUrl": "assets/images/jackets05.jpg",
         },
         {
           "id": 36,
@@ -222,7 +222,7 @@ final Map<String, dynamic> fashionData = {
           "price": 109.99,
           "description":
               "Polish your look with this tailored blazer, suitable for both work and social occasions.",
-          "imageUrl": "assets/images/jackets6.jpg",
+          "imageUrl": "assets/images/jackets06.jpg",
         },
         {
           "id": 37,
@@ -230,7 +230,7 @@ final Map<String, dynamic> fashionData = {
           "price": 79.99,
           "description":
               "Brave the elements in this lightweight windbreaker, ideal for outdoor activities.",
-          "imageUrl": "assets/images/jackets7.jpg",
+          "imageUrl": "assets/images/jackets07.jpg",
         },
         {
           "id": 38,
@@ -238,7 +238,7 @@ final Map<String, dynamic> fashionData = {
           "price": 169.99,
           "description":
               "Stay insulated in this durable parka, designed to withstand colder temperatures.",
-          "imageUrl": "assets/images/jackets8.jpg",
+          "imageUrl": "assets/images/jackets08.jpg",
         },
         {
           "id": 39,
@@ -246,15 +246,15 @@ final Map<String, dynamic> fashionData = {
           "price": 59.99,
           "description":
               "Face the rain with confidence in this waterproof rain jacket, combining function and fashion.",
-          "imageUrl": "assets/images/jackets5.jpg",
+          "imageUrl": "assets/images/jackets09.jpg",
         },
         {
           "id": 40,
-          "name": "Faux Fur Coat",
+          "name": "Denim Jacket",
           "price": 139.99,
           "description":
-              "Stay luxuriously warm with this faux fur coat, a glamorous addition to your winter wardrobe.",
-          "imageUrl": "assets/images/jackets1.jpg",
+              "Stay luxuriously warm with this denim jacket, a glamorous addition to your winter wardrobe.",
+          "imageUrl": "assets/images/jackets10.jpg",
         },
       ],
     },
@@ -276,7 +276,7 @@ final Map<String, dynamic> fashionData = {
           "price": 24.99,
           "description":
               "Express yourself with this trendy graphic tee, perfect for casual outings.",
-          "imageUrl": "assets/images/shirts2.jpg",
+          "imageUrl": "assets/images/pic-2.png",
         },
         {
           "id": 43,
@@ -284,7 +284,7 @@ final Map<String, dynamic> fashionData = {
           "price": 29.99,
           "description":
               "Embrace a sporty look with this comfortable polo shirt, ideal for a day on the golf course.",
-          "imageUrl": "assets/images/shirts3.jpg",
+          "imageUrl": "assets/images/pic-3.png",
         },
         {
           "id": 44,
@@ -292,7 +292,7 @@ final Map<String, dynamic> fashionData = {
           "price": 39.99,
           "description":
               "Keep cozy in this stylish flannel shirt, a perfect choice for a laid-back day.",
-          "imageUrl": "assets/images/shirts4.jpg",
+          "imageUrl": "assets/images/pic-4.png",
         },
         {
           "id": 45,
@@ -300,7 +300,7 @@ final Map<String, dynamic> fashionData = {
           "price": 49.99,
           "description":
               "Elevate your style with this Oxford cloth shirt, a wardrobe essential for any occasion.",
-          "imageUrl": "assets/images/shirts5.jpg",
+          "imageUrl": "assets/images/pic-5.png",
         },
         {
           "id": 46,
@@ -308,7 +308,7 @@ final Map<String, dynamic> fashionData = {
           "price": 44.99,
           "description":
               "Add a touch of casual sophistication with this chambray shirt, perfect for a relaxed look.",
-          "imageUrl": "assets/images/shirts6.jpg",
+          "imageUrl": "assets/images/pic-6.png",
         },
         {
           "id": 47,
@@ -316,7 +316,7 @@ final Map<String, dynamic> fashionData = {
           "price": 34.99,
           "description":
               "Opt for comfort with this henley shirt, a stylish option for your everyday wardrobe.",
-          "imageUrl": "assets/images/shirts7.jpg",
+          "imageUrl": "assets/images/pic-7.png",
         },
         {
           "id": 48,
@@ -324,7 +324,7 @@ final Map<String, dynamic> fashionData = {
           "price": 19.99,
           "description":
               "Show off your neckline with this V-neck t-shirt, a classic choice for a casual outfit.",
-          "imageUrl": "assets/images/shirts5.jpg",
+          "imageUrl": "assets/images/pic-8.jpg",
         },
         {
           "id": 49,
@@ -332,7 +332,7 @@ final Map<String, dynamic> fashionData = {
           "price": 39.99,
           "description":
               "Transition seamlessly from day to night with this long sleeve shirt, a versatile piece.",
-          "imageUrl": "assets/images/shirts7.jpg",
+          "imageUrl": "assets/images/pic-9.jpg",
         },
         {
           "id": 50,
@@ -340,7 +340,7 @@ final Map<String, dynamic> fashionData = {
           "price": 29.99,
           "description":
               "Stay on trend with this striped shirt, a timeless pattern for any fashion-forward individual.",
-          "imageUrl": "assets/images/shirts4.jpg",
+          "imageUrl": "assets/images/pic-10.jpg",
         },
       ],
     },
@@ -436,83 +436,83 @@ final Map<String, dynamic> fashionData = {
       "products": [
         {
           "id": 61,
-          "name": "Leather Belt",
+          "name": "Polarized Rectangular Sunglasses",
           "price": 29.99,
           "description":
-              "Complete your look with this stylish leather belt, a versatile accessory for any outfit.",
-          "imageUrl": "assets/images/accessories01.jpg",
+              "Shield your eyes with these fashionable sunglasses, perfect for sunny days.",
+          "imageUrl": "assets/images/pic1.png",
         },
         {
           "id": 62,
-          "name": "Sunglasses",
+          "name": "Stainless Steel Watch",
           "price": 19.99,
           "description":
-              "Shield your eyes with these fashionable sunglasses, perfect for sunny days.",
-          "imageUrl": "assets/images/accessories02.jpg",
+              "Stay on time and on trend with this sleek and sophisticated watch.",
+          "imageUrl": "assets/images/pic2.png",
         },
         {
           "id": 63,
-          "name": "Watch",
+          "name": "Floto Tavani Leather Bag",
           "price": 79.99,
           "description":
-              "Stay on time and on trend with this sleek and sophisticated watch.",
-          "imageUrl": "assets/images/accessories03.jpg",
+              "Carry your essentials in this trendy backpack, combining style and functionality.",
+          "imageUrl": "assets/images/pic3.png",
         },
         {
           "id": 64,
-          "name": "Beanie Hat",
+          "name": "Red Sands Sunglasses",
           "price": 14.99,
           "description":
-              "Keep warm in style with this cozy beanie hat, a winter essential.",
-          "imageUrl": "assets/images/accessories04.jpg",
+              "Shield your eyes with these fashionable sunglasses, perfect for sunny days.",
+          "imageUrl": "assets/images/pic4.png",
         },
         {
           "id": 65,
-          "name": "Backpack",
+          "name": "Watch and Bracelet Set",
           "price": 59.99,
           "description":
-              "Carry your essentials in this trendy backpack, combining style and functionality.",
-          "imageUrl": "assets/images/accessories05.jpg",
+              "Stay on time and on trend with this sleek and sophisticated watch.",
+          "imageUrl": "assets/images/pic5.png",
         },
         {
           "id": 66,
-          "name": "Necktie",
+          "name": "Backpack",
           "price": 34.99,
           "description":
-              "Add a touch of elegance with this classic necktie, perfect for formal occasions.",
-          "imageUrl": "assets/images/accessories06.jpg",
+              "Carry your essentials in this trendy backpack, combining style and functionality.",
+          "imageUrl": "assets/images/pic6.png",
         },
         {
           "id": 67,
-          "name": "Bracelet Set",
+          "name": "Diamond Stone Pendant",
           "price": 24.99,
           "description":
-              "Enhance your wrist game with this stylish bracelet set, a versatile accessory.",
-          "imageUrl": "assets/images/accessories07.jpg",
+              "Add a touch of elegance with this classic pendant, perfect for formal occasions.",
+          "imageUrl": "assets/images/pic7.png",
         },
         {
           "id": 68,
-          "name": "Crossbody Bag",
+          "name": "Gold Diamond Ring",
           "price": 49.99,
           "description":
-              "Stay organized with this chic crossbody bag, a practical addition to your accessories collection.",
-          "imageUrl": "assets/images/accessories08.jpg",
+              "Enhance your hand game with this stylish diamond ring, a versatile accessory.",
+          "imageUrl": "assets/images/pic8.png",
         },
         {
           "id": 69,
-          "name": "Earrings",
+          "name": "Heart Locket Necklace",
           "price": 14.99,
           "description":
-              "Elevate your look with these trendy earrings, adding a touch of glamour.",
-          "imageUrl": "assets/images/accessories09.jpg",
+              "Add a touch of elegance with this heart locket pendant, perfect for formal occasions.",
+          "imageUrl": "assets/images/pic9.png",
         },
         {
           "id": 610,
-          "name": "Fedora Hat",
+          "name": "Diamond Earrings",
           "price": 39.99,
           "description":
-              "Top off your outfit with this fashionable fedora hat, a timeless accessory for any season.",
-          "imageUrl": "assets/images/accessories10.jpg",
+              "Elevate your look with these trendy earrings, adding a touch of glamour.",
+          "imageUrl": "assets/images/pic10.png",
         },
       ],
     },

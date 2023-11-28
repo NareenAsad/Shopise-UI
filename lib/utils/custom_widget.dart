@@ -1,5 +1,4 @@
 // ignore_for_file: must_be_immutable
-
 import 'package:flutter/material.dart';
 import 'package:flutter_application_3/pages/detail_page.dart';
 import 'package:flutter_application_3/utils/util.dart';
@@ -53,7 +52,9 @@ class CategoryContainer extends StatelessWidget {
                     fontSize: 20,
                   ),
                 ),
-                Text(price)
+                Text(
+                  price,
+                ),
               ],
             ),
           ),
@@ -96,18 +97,18 @@ class MyCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: () {
-        // Navigator.push(
-        //   context,
-        //   MaterialPageRoute(
-        //     builder: (context) => DetailsPage(
-        //       image: image,
-        //       title: title,
-        //       price: price,
-        //       description:
-        //           'Put your hands in the air for the sleeveless version of our most popular polo. It a soft cotton-blend pique knit that sure to become a wardrobe staple just like its sister.',
-        //     ),
-        //   ),
-        // );
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => DetailsPage(
+              image: image,
+              title: title,
+              price: price,
+              description:
+                  'Put your hands in the air for the sleeveless version of our most popular polo. It a soft cotton-blend pique knit that sure to become a wardrobe staple just like its sister.',
+            ),
+          ),
+        );
       },
       child: Card(
         shape: RoundedRectangleBorder(

@@ -113,6 +113,19 @@ class HomePage extends StatelessWidget {
                         fontWeight: FontWeight.bold,
                         fontFamily: 'FjallaOne'),
                   ),
+                  ListTile(
+                    onTap: () {
+                      Navigator.of(context).push(MaterialPageRoute(
+                          builder: (context) => AllCategoriesList()));
+                    },
+                    leading: Image.asset(
+                      "assets/icons/all.png",
+                      height: 25,
+                      width: 25,
+                      fit: BoxFit.cover,
+                    ),
+                    title: Text("All categories"),
+                  ),
                   ListView.builder(
                     shrinkWrap: true,
                     itemCount: fashionData["categories"].length,
