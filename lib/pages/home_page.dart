@@ -3,7 +3,6 @@ import 'package:flutter_application_3/pages/all_categories_list.dart';
 import 'package:flutter_application_3/pages/categorey_page.dart';
 import 'package:flutter_application_3/pages/login_page.dart';
 import 'package:flutter_application_3/utils/custom_widget.dart';
-import 'package:flutter_application_3/utils/data.dart';
 import 'package:flutter_application_3/utils/jsondata.dart';
 import 'package:flutter_application_3/utils/util.dart';
 

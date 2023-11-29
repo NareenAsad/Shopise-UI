@@ -2,268 +2,10 @@ final Map<String, dynamic> fashionData = {
   "categories": [
     {
       "id": 1,
-      "name": "Shoes",
-      "products": [
-        {
-          "id": 11,
-          "name": "Running Sneakers",
-          "price": 59.99,
-          "description":
-              "Ideal for your morning jog, these running sneakers provide comfort and support.",
-          "imageUrl": "assets/images/shoes1.jpeg",
-        },
-        {
-          "id": 12,
-          "name": "Casual Loafers",
-          "price": 49.99,
-          "description":
-              "Slip into style with these casual loafers, perfect for a laid-back day out.",
-          "imageUrl": "assets/images/shoes2.jpg",
-        },
-        {
-          "id": 13,
-          "name": "High-Top Basketball Shoes",
-          "price": 69.99,
-          "description":
-              "Dominate the court with these high-top basketball shoes designed for performance.",
-          "imageUrl": "assets/images/shoes3.jpg",
-        },
-        {
-          "id": 14,
-          "name": "Leather Oxford Shoes",
-          "price": 79.99,
-          "description":
-              "Elevate your formal look with these leather oxford shoes, a timeless classic.",
-          "imageUrl": "assets/images/shoes4.jpg",
-        },
-        {
-          "id": 15,
-          "name": "Slip-on Canvas Shoes",
-          "price": 39.99,
-          "description":
-              "Easy-going style meets comfort in these slip-on canvas shoes for any casual day.",
-          "imageUrl": "assets/images/shoes5.jpg",
-        },
-        {
-          "id": 16,
-          "name": "Fashionable Boots",
-          "price": 89.99,
-          "description":
-              "Make a fashion statement with these fashionable boots, perfect for any season.",
-          "imageUrl": "assets/images/shoes6.jpg",
-        },
-        {
-          "id": 17,
-          "name": "Hiking Shoes",
-          "price": 99.99,
-          "description":
-              "Conquer the trails with these durable hiking shoes, built for adventure.",
-          "imageUrl": "assets/images/shoes7.jpg",
-        },
-        {
-          "id": 18,
-          "name": "Classic Brogues",
-          "price": 74.99,
-          "description":
-              "Step out in style with these classic brogues, a versatile addition to your wardrobe.",
-          "imageUrl": "assets/images/shoes8.jpg",
-        },
-        {
-          "id": 19,
-          "name": "Skateboard Shoes",
-          "price": 54.99,
-          "description":
-              "Show off your skills with these skateboard shoes, combining style and functionality.",
-          "imageUrl": "assets/images/shoes9.jpg",
-        },
-        {
-          "id": 20,
-          "name": "Comfortable Sandals",
-          "price": 29.99,
-          "description":
-              "Enjoy the sunshine with these comfortable sandals, perfect for a day at the beach.",
-          "imageUrl": "assets/images/shoes10.jpg",
-        },
-      ],
-    },
-    {
-      "id": 2,
-      "name": "Heels",
-      "products": [
-        {
-          "id": 21,
-          "name": "Stiletto Pumps",
-          "price": 69.99,
-          "description":
-              "Step out with confidence in these elegant stiletto pumps, perfect for a night out.",
-          "imageUrl": "assets/images/heels1.jpg",
-        },
-        {
-          "id": 22,
-          "name": "Platform Sandals",
-          "price": 59.99,
-          "description":
-              "Elevate your style with these platform sandals, adding height and glamour.",
-          "imageUrl": "assets/images/heels02.jpg",
-        },
-        {
-          "id": 23,
-          "name": "Ankle Strap Heels",
-          "price": 79.99,
-          "description":
-              "Secure your look with these ankle strap heels, a fashionable choice for any occasion.",
-          "imageUrl": "assets/images/heels03.jpg",
-        },
-        {
-          "id": 24,
-          "name": "Block Heel Booties",
-          "price": 89.99,
-          "description":
-              "Stay on-trend with these block heel booties, combining style and comfort.",
-          "imageUrl": "assets/images/heels04.jpg",
-        },
-        {
-          "id": 25,
-          "name": "Wedge Sandals",
-          "price": 49.99,
-          "description":
-              "Easy-going style meets comfort in these wedge sandals, perfect for casual outings.",
-          "imageUrl": "assets/images/heels05.jpg",
-        },
-        {
-          "id": 26,
-          "name": "Peep-toe Mules",
-          "price": 74.99,
-          "description":
-              "Show off your pedicure with these peep-toe mules, a chic addition to your wardrobe.",
-          "imageUrl": "assets/images/heels06.jpg",
-        },
-        {
-          "id": 27,
-          "name": "Slingback Heels",
-          "price": 64.99,
-          "description":
-              "Add a touch of sophistication with these slingback heels, suitable for any event.",
-          "imageUrl": "assets/images/heels07.jpg",
-        },
-        {
-          "id": 28,
-          "name": "Kitten Heel Pumps",
-          "price": 54.99,
-          "description":
-              "Embrace elegance with these kitten heel pumps, a timeless choice for formal occasions.",
-          "imageUrl": "assets/images/heels08.jpg",
-        },
-        {
-          "id": 29,
-          "name": "Open-toe Boots",
-          "price": 99.99,
-          "description":
-              "Make a statement with these open-toe boots, a versatile option for any season.",
-          "imageUrl": "assets/images/heels09.jpg",
-        },
-        {
-          "id": 30,
-          "name": "Chunky Heel Sandals",
-          "price": 69.99,
-          "description":
-              "Stay on the cutting edge of fashion with these chunky heel sandals, perfect for a bold look.",
-          "imageUrl": "assets/images/heels10.jpg",
-        },
-      ],
-    },
-    {
-      "id": 3,
-      "name": "Jackets",
-      "products": [
-        {
-          "id": 31,
-          "name": "Leather Biker Jacket",
-          "price": 149.99,
-          "description":
-              "Channel your inner rebel with this classic leather biker jacket, a symbol of cool.",
-          "imageUrl": "assets/images/jackets1.jpg",
-        },
-        {
-          "id": 32,
-          "name": "Denim Jacket",
-          "price": 89.99,
-          "description":
-              "Stay casual and stylish with this timeless denim jacket, a versatile wardrobe staple.",
-          "imageUrl": "assets/images/jackets02.jpg",
-        },
-        {
-          "id": 33,
-          "name": "Puffer Jacket",
-          "price": 119.99,
-          "description":
-              "Keep warm in style with this cozy puffer jacket, perfect for chilly days.",
-          "imageUrl": "assets/images/jackets03.jpg",
-        },
-        {
-          "id": 34,
-          "name": "Bomber Jacket",
-          "price": 99.99,
-          "description":
-              "Add an edge to your look with this trendy bomber jacket, a must-have for street style.",
-          "imageUrl": "assets/images/jackets04.jpg",
-        },
-        {
-          "id": 35,
-          "name": "Trench Coat",
-          "price": 129.99,
-          "description":
-              "Elevate your outerwear collection with this sophisticated trench coat, a classic choice.",
-          "imageUrl": "assets/images/jackets05.jpg",
-        },
-        {
-          "id": 36,
-          "name": "Blazer",
-          "price": 109.99,
-          "description":
-              "Polish your look with this tailored blazer, suitable for both work and social occasions.",
-          "imageUrl": "assets/images/jackets06.jpg",
-        },
-        {
-          "id": 37,
-          "name": "Windbreaker",
-          "price": 79.99,
-          "description":
-              "Brave the elements in this lightweight windbreaker, ideal for outdoor activities.",
-          "imageUrl": "assets/images/jackets07.jpg",
-        },
-        {
-          "id": 38,
-          "name": "Parka",
-          "price": 169.99,
-          "description":
-              "Stay insulated in this durable parka, designed to withstand colder temperatures.",
-          "imageUrl": "assets/images/jackets08.jpg",
-        },
-        {
-          "id": 39,
-          "name": "Rain Jacket",
-          "price": 59.99,
-          "description":
-              "Face the rain with confidence in this waterproof rain jacket, combining function and fashion.",
-          "imageUrl": "assets/images/jackets09.jpg",
-        },
-        {
-          "id": 40,
-          "name": "Denim Jacket",
-          "price": 139.99,
-          "description":
-              "Stay luxuriously warm with this denim jacket, a glamorous addition to your winter wardrobe.",
-          "imageUrl": "assets/images/jackets10.jpg",
-        },
-      ],
-    },
-    {
-      "id": 4,
       "name": "Shirts",
       "products": [
         {
-          "id": 41,
+          "id": 11,
           "name": "Button-up Shirt",
           "price": 34.99,
           "description":
@@ -271,7 +13,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/shirts1.jpg",
         },
         {
-          "id": 42,
+          "id": 12,
           "name": "Graphic Tee",
           "price": 24.99,
           "description":
@@ -279,7 +21,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-2.png",
         },
         {
-          "id": 43,
+          "id": 13,
           "name": "Polo Shirt",
           "price": 29.99,
           "description":
@@ -287,7 +29,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-3.png",
         },
         {
-          "id": 44,
+          "id": 14,
           "name": "Flannel Shirt",
           "price": 39.99,
           "description":
@@ -295,7 +37,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-4.png",
         },
         {
-          "id": 45,
+          "id": 15,
           "name": "Oxford Cloth Shirt",
           "price": 49.99,
           "description":
@@ -303,7 +45,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-5.png",
         },
         {
-          "id": 46,
+          "id": 16,
           "name": "Chambray Shirt",
           "price": 44.99,
           "description":
@@ -311,7 +53,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-6.png",
         },
         {
-          "id": 47,
+          "id": 17,
           "name": "Henley Shirt",
           "price": 34.99,
           "description":
@@ -319,7 +61,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-7.png",
         },
         {
-          "id": 48,
+          "id": 18,
           "name": "V-neck T-shirt",
           "price": 19.99,
           "description":
@@ -327,7 +69,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-8.jpg",
         },
         {
-          "id": 49,
+          "id": 19,
           "name": "Long Sleeve Shirt",
           "price": 39.99,
           "description":
@@ -335,7 +77,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic-9.jpg",
         },
         {
-          "id": 50,
+          "id": 20,
           "name": "Striped Shirt",
           "price": 29.99,
           "description":
@@ -345,11 +87,11 @@ final Map<String, dynamic> fashionData = {
       ],
     },
     {
-      "id": 5,
-      "name": "Pants",
+      "id": 2,
+      "name": "Bottoms",
       "products": [
         {
-          "id": 51,
+          "id": 21,
           "name": "Slim Fit Jeans",
           "price": 59.99,
           "description":
@@ -357,7 +99,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants1.jpg",
         },
         {
-          "id": 52,
+          "id": 22,
           "name": "Chinos",
           "price": 44.99,
           "description":
@@ -365,7 +107,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants2.jpg",
         },
         {
-          "id": 53,
+          "id": 23,
           "name": "Cargo Pants",
           "price": 49.99,
           "description":
@@ -373,7 +115,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants3.jpg",
         },
         {
-          "id": 54,
+          "id": 24,
           "name": "Jogger Pants",
           "price": 34.99,
           "description":
@@ -381,7 +123,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants4.jpg",
         },
         {
-          "id": 55,
+          "id": 25,
           "name": "Wide Leg Trousers",
           "price": 54.99,
           "description":
@@ -389,7 +131,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants5.jpg",
         },
         {
-          "id": 56,
+          "id": 26,
           "name": "Cropped Pants",
           "price": 39.99,
           "description":
@@ -397,7 +139,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants6.jpg",
         },
         {
-          "id": 57,
+          "id": 27,
           "name": "Khaki Pants",
           "price": 44.99,
           "description":
@@ -405,7 +147,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants7.jpg",
         },
         {
-          "id": 58,
+          "id": 28,
           "name": "Corduroy Pants",
           "price": 54.99,
           "description":
@@ -413,7 +155,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants8.jpg",
         },
         {
-          "id": 59,
+          "id": 29,
           "name": "Track Pants",
           "price": 29.99,
           "description":
@@ -421,7 +163,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pants2.jpg",
         },
         {
-          "id": 510,
+          "id": 30,
           "name": "Skinny Jeans",
           "price": 49.99,
           "description":
@@ -431,11 +173,183 @@ final Map<String, dynamic> fashionData = {
       ],
     },
     {
-      "id": 6,
+      "id": 3,
+      "name": "Shoes",
+      "products": [
+        {
+          "id": 31,
+          "name": "Running Sneakers",
+          "price": 59.99,
+          "description":
+              "Ideal for your morning jog, these running sneakers provide comfort and support.",
+          "imageUrl": "assets/images/shoes1.jpeg",
+        },
+        {
+          "id": 32,
+          "name": "Casual Loafers",
+          "price": 49.99,
+          "description":
+              "Slip into style with these casual loafers, perfect for a laid-back day out.",
+          "imageUrl": "assets/images/shoes2.jpg",
+        },
+        {
+          "id": 33,
+          "name": "High-Top Basketball Shoes",
+          "price": 69.99,
+          "description":
+              "Dominate the court with these high-top basketball shoes designed for performance.",
+          "imageUrl": "assets/images/shoes3.jpg",
+        },
+        {
+          "id": 34,
+          "name": "Leather Oxford Shoes",
+          "price": 79.99,
+          "description":
+              "Elevate your formal look with these leather oxford shoes, a timeless classic.",
+          "imageUrl": "assets/images/shoes4.jpg",
+        },
+        {
+          "id": 35,
+          "name": "Slip-on Canvas Shoes",
+          "price": 39.99,
+          "description":
+              "Easy-going style meets comfort in these slip-on canvas shoes for any casual day.",
+          "imageUrl": "assets/images/shoes5.jpg",
+        },
+        {
+          "id": 36,
+          "name": "Fashionable Boots",
+          "price": 89.99,
+          "description":
+              "Make a fashion statement with these fashionable boots, perfect for any season.",
+          "imageUrl": "assets/images/shoes6.jpg",
+        },
+        {
+          "id": 37,
+          "name": "Hiking Shoes",
+          "price": 99.99,
+          "description":
+              "Conquer the trails with these durable hiking shoes, built for adventure.",
+          "imageUrl": "assets/images/shoes7.jpg",
+        },
+        {
+          "id": 38,
+          "name": "Classic Brogues",
+          "price": 74.99,
+          "description":
+              "Step out in style with these classic brogues, a versatile addition to your wardrobe.",
+          "imageUrl": "assets/images/shoes8.jpg",
+        },
+        {
+          "id": 39,
+          "name": "Skateboard Shoes",
+          "price": 54.99,
+          "description":
+              "Show off your skills with these skateboard shoes, combining style and functionality.",
+          "imageUrl": "assets/images/shoes9.jpg",
+        },
+        {
+          "id": 40,
+          "name": "Comfortable Sandals",
+          "price": 29.99,
+          "description":
+              "Enjoy the sunshine with these comfortable sandals, perfect for a day at the beach.",
+          "imageUrl": "assets/images/shoes10.jpg",
+        },
+      ],
+    },
+    {
+      "id": 4,
+      "name": "Heels",
+      "products": [
+        {
+          "id": 41,
+          "name": "Stiletto Pumps",
+          "price": 69.99,
+          "description":
+              "Step out with confidence in these elegant stiletto pumps, perfect for a night out.",
+          "imageUrl": "assets/images/heels1.jpg",
+        },
+        {
+          "id": 42,
+          "name": "Platform Sandals",
+          "price": 59.99,
+          "description":
+              "Elevate your style with these platform sandals, adding height and glamour.",
+          "imageUrl": "assets/images/heels02.jpg",
+        },
+        {
+          "id": 43,
+          "name": "Ankle Strap Heels",
+          "price": 79.99,
+          "description":
+              "Secure your look with these ankle strap heels, a fashionable choice for any occasion.",
+          "imageUrl": "assets/images/heels03.jpg",
+        },
+        {
+          "id": 44,
+          "name": "Block Heel Booties",
+          "price": 89.99,
+          "description":
+              "Stay on-trend with these block heel booties, combining style and comfort.",
+          "imageUrl": "assets/images/heels04.jpg",
+        },
+        {
+          "id": 45,
+          "name": "Wedge Sandals",
+          "price": 49.99,
+          "description":
+              "Easy-going style meets comfort in these wedge sandals, perfect for casual outings.",
+          "imageUrl": "assets/images/heels05.jpg",
+        },
+        {
+          "id": 46,
+          "name": "Peep-toe Mules",
+          "price": 74.99,
+          "description":
+              "Show off your pedicure with these peep-toe mules, a chic addition to your wardrobe.",
+          "imageUrl": "assets/images/heels06.jpg",
+        },
+        {
+          "id": 47,
+          "name": "Slingback Heels",
+          "price": 64.99,
+          "description":
+              "Add a touch of sophistication with these slingback heels, suitable for any event.",
+          "imageUrl": "assets/images/heels07.jpg",
+        },
+        {
+          "id": 48,
+          "name": "Kitten Heel Pumps",
+          "price": 54.99,
+          "description":
+              "Embrace elegance with these kitten heel pumps, a timeless choice for formal occasions.",
+          "imageUrl": "assets/images/heels08.jpg",
+        },
+        {
+          "id": 49,
+          "name": "Open-toe Boots",
+          "price": 99.99,
+          "description":
+              "Make a statement with these open-toe boots, a versatile option for any season.",
+          "imageUrl": "assets/images/heels09.jpg",
+        },
+        {
+          "id": 50,
+          "name": "Chunky Heel Sandals",
+          "price": 69.99,
+          "description":
+              "Stay on the cutting edge of fashion with these chunky heel sandals, perfect for a bold look.",
+          "imageUrl": "assets/images/heels10.jpg",
+        },
+      ],
+    },
+    {
+      "id": 5,
       "name": "Accessories",
       "products": [
         {
-          "id": 61,
+          "id": 51,
           "name": "Polarized Rectangular Sunglasses",
           "price": 29.99,
           "description":
@@ -443,7 +357,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic1.png",
         },
         {
-          "id": 62,
+          "id": 52,
           "name": "Stainless Steel Watch",
           "price": 19.99,
           "description":
@@ -451,7 +365,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic2.png",
         },
         {
-          "id": 63,
+          "id": 53,
           "name": "Floto Tavani Leather Bag",
           "price": 79.99,
           "description":
@@ -459,7 +373,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic3.png",
         },
         {
-          "id": 64,
+          "id": 54,
           "name": "Red Sands Sunglasses",
           "price": 14.99,
           "description":
@@ -467,7 +381,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic4.png",
         },
         {
-          "id": 65,
+          "id": 55,
           "name": "Watch and Bracelet Set",
           "price": 59.99,
           "description":
@@ -475,7 +389,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic5.png",
         },
         {
-          "id": 66,
+          "id": 56,
           "name": "Backpack",
           "price": 34.99,
           "description":
@@ -483,7 +397,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic6.png",
         },
         {
-          "id": 67,
+          "id": 57,
           "name": "Diamond Stone Pendant",
           "price": 24.99,
           "description":
@@ -491,7 +405,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic7.png",
         },
         {
-          "id": 68,
+          "id": 58,
           "name": "Gold Diamond Ring",
           "price": 49.99,
           "description":
@@ -499,7 +413,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic8.png",
         },
         {
-          "id": 69,
+          "id": 59,
           "name": "Heart Locket Necklace",
           "price": 14.99,
           "description":
@@ -507,7 +421,7 @@ final Map<String, dynamic> fashionData = {
           "imageUrl": "assets/images/pic9.png",
         },
         {
-          "id": 610,
+          "id": 510,
           "name": "Diamond Earrings",
           "price": 39.99,
           "description":
@@ -516,22 +430,108 @@ final Map<String, dynamic> fashionData = {
         },
       ],
     },
+    {
+      "id": 6,
+      "name": "Tops",
+      "products": [
+        {
+          "id": 61,
+          "name": "Leather Biker Jacket",
+          "price": 149.99,
+          "description":
+              "Channel your inner rebel with this classic leather biker jacket, a symbol of cool.",
+          "imageUrl": "assets/images/jackets1.jpg",
+        },
+        {
+          "id": 62,
+          "name": "Denim Jacket",
+          "price": 89.99,
+          "description":
+              "Stay casual and stylish with this timeless denim jacket, a versatile wardrobe staple.",
+          "imageUrl": "assets/images/jackets02.jpg",
+        },
+        {
+          "id": 63,
+          "name": "Puffer Jacket",
+          "price": 119.99,
+          "description":
+              "Keep warm in style with this cozy puffer jacket, perfect for chilly days.",
+          "imageUrl": "assets/images/jackets03.jpg",
+        },
+        {
+          "id": 64,
+          "name": "Bomber Jacket",
+          "price": 99.99,
+          "description":
+              "Add an edge to your look with this trendy bomber jacket, a must-have for street style.",
+          "imageUrl": "assets/images/jackets04.jpg",
+        },
+        {
+          "id": 65,
+          "name": "Trench Coat",
+          "price": 129.99,
+          "description":
+              "Elevate your outerwear collection with this sophisticated trench coat, a classic choice.",
+          "imageUrl": "assets/images/jackets05.jpg",
+        },
+        {
+          "id": 66,
+          "name": "Blazer",
+          "price": 109.99,
+          "description":
+              "Polish your look with this tailored blazer, suitable for both work and social occasions.",
+          "imageUrl": "assets/images/jackets06.jpg",
+        },
+        {
+          "id": 67,
+          "name": "Windbreaker",
+          "price": 79.99,
+          "description":
+              "Brave the elements in this lightweight windbreaker, ideal for outdoor activities.",
+          "imageUrl": "assets/images/jackets07.jpg",
+        },
+        {
+          "id": 68,
+          "name": "Parka",
+          "price": 169.99,
+          "description":
+              "Stay insulated in this durable parka, designed to withstand colder temperatures.",
+          "imageUrl": "assets/images/jackets08.jpg",
+        },
+        {
+          "id": 69,
+          "name": "Rain Jacket",
+          "price": 59.99,
+          "description":
+              "Face the rain with confidence in this waterproof rain jacket, combining function and fashion.",
+          "imageUrl": "assets/images/jackets09.jpg",
+        },
+        {
+          "id": 610,
+          "name": "Denim Jacket",
+          "price": 139.99,
+          "description":
+              "Stay luxuriously warm with this denim jacket, a glamorous addition to your winter wardrobe.",
+          "imageUrl": "assets/images/jackets10.jpg",
+        },
+      ],
+    },
   ],
-  "names": ["shoes", "heels", "Jackets", "shirts", "pants", "accessories"],
+  "names": ["Shirts", "Bottoms", "Shoes", "Heels", "Accessories", "Tops"],
   "images": [
-    "assets/images/shoes1.jpeg",
-    "assets/images/heels1.jpg",
-    "assets/images/jackets1.jpg",
     "assets/images/shirts1.jpg",
     "assets/images/pants1.jpg",
-    "assets/images/accessories01.jpg"
+    "assets/images/shoes1.jpeg",
+    "assets/images/heels1.jpg",
+    "assets/images/accessories01.jpg",
+    "assets/images/jackets1.jpg",
   ],
   "icons": [
-    "assets/icons/shoes.png",
-    "assets/icons/heel.png",
-    "assets/icons/top.png",
     "assets/icons/shirt_icon.png",
     "assets/icons/pants.png",
+    "assets/icons/shoes.png",
+    "assets/icons/heel.png",
     "assets/icons/watches.png",
+    "assets/icons/top.png",
   ]
 };

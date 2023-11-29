@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_3/pages/all_categories_grid.dart';
 import 'package:flutter_application_3/pages/categorey_page.dart';
 import 'package:flutter_application_3/utils/jsondata.dart';
+import 'package:flutter_application_3/utils/util.dart';
 
 class AllCategoriesList extends StatelessWidget {
   const AllCategoriesList({super.key});
@@ -10,17 +11,32 @@ class AllCategoriesList extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("All categories list view"),
-        actions: [
-          InkWell(
-              onTap: () {
-                Navigator.of(context).push(MaterialPageRoute(
-                    builder: (context) => AllCategoriesGrid()));
-              },
-              child: Icon(Icons.grid_on_sharp)),
-          SizedBox(
-            width: 10,
-          )
+        backgroundColor: white,
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+          color: purple,
+        ),
+        centerTitle: true,
+        title: Text(
+          'All Categories',
+          style: TextStyle(
+            fontSize: 20,
+            fontFamily: 'EduTASBeginner',
+            color: purple,
+          ),
+        ),
+        actions: <Widget>[
+          IconButton(
+            onPressed: () {
+              Navigator.of(context).push(
+                  MaterialPageRoute(builder: (context) => AllCategoriesGrid()));
+            },
+            icon: Icon(Icons.menu),
+            color: purple,
+          ),
         ],
       ),
       body: Center(
@@ -47,7 +63,6 @@ class AllCategoriesList extends StatelessWidget {
                       title: Text(
                         fashionData["names"][index],
                       ),
-                      subtitle: Text("descriptions will be shown here"),
                       trailing: Icon(Icons.arrow_forward_ios_rounded),
                     ),
                   ),
