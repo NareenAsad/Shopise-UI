@@ -39,15 +39,15 @@ List<String> shirtDescriptions = [
 
 List<String> shirtImages = [
   "assets/images/shirts1.jpg",
-  "assets/images/pic-2.png",
-  "assets/images/pic-3.png",
-  "assets/images/pic-4.png",
-  "assets/images/pic-5.png",
-  "assets/images/pic-6.png",
-  "assets/images/pic-7.png",
-  "assets/images/pic-8.jpg",
-  "assets/images/pic-9.jpg",
-  "assets/images/pic-10.jpg",
+  "assets/images/shirts2.jpg",
+  "assets/images/shirts3.jpg",
+  "assets/images/shirts4.jpg",
+  "assets/images/shirts5.jpg",
+  "assets/images/shirts6.jpg",
+  "assets/images/shirts7.jpg",
+  "assets/images/shirts5.jpg",
+  "assets/images/shirts7.jpg",
+  "assets/images/shirts4.jpg",
 ];
 
 List<String> pantNames = [
@@ -92,16 +92,14 @@ List<String> pantDescriptions = [
 List<String> pantsImages = [
   "assets/images/pants1.jpg",
   "assets/images/pants2.jpg",
-  "assets/images/pants2.jpg",
   "assets/images/pants3.jpg",
   "assets/images/pants4.jpg",
   "assets/images/pants5.jpg",
   "assets/images/pants6.jpg",
-  "assets/images/pants5.jpg",
-  "assets/images/pants7.jpg",
   "assets/images/pants7.jpg",
   "assets/images/pants8.jpg",
-  "assets/images/pants8.jpg",
+  "assets/images/pants2.jpg",
+  "assets/images/pants1.jpg",
 ];
 
 List<String> shoeNames = [
@@ -145,15 +143,16 @@ List<String> shoeDescriptions = [
 
 List<String> shoeImages = [
   "assets/images/shoes1.jpeg",
-  "assets/images/shoes2.jpg",
-  "assets/images/shoes3.jpg",
-  "assets/images/shoes4.jpg",
-  "assets/images/shoes5.jpg",
-  "assets/images/shoes6.jpg",
-  "assets/images/shoes7.jpg",
-  "assets/images/shoes8.jpg",
-  "assets/images/shoes9.jpg",
-  "assets/images/shoes10.jpg",
+  "assets/images/shoes2.jpeg",
+  "assets/images/shoes3.jpeg",
+  "assets/images/shoes4.jpeg",
+  "assets/images/shoes5.jpeg",
+  "assets/images/shoes6.jpeg",
+  "assets/images/shoes7.jpeg",
+  "assets/images/shoes8.jpeg",
+  "assets/images/shoes9.jpeg",
+  "assets/images/shoes10.jpeg",
+  "assets/images/shoes11.jpeg",
 ];
 
 List<String> heelNames = [
@@ -197,15 +196,15 @@ List<String> heelDescriptions = [
 
 List<String> heelImages = [
   "assets/images/heels1.jpg",
-  "assets/images/heels02.jpg",
-  "assets/images/heels03.jpg",
-  "assets/images/heels04.jpg",
-  "assets/images/heels05.jpg",
-  "assets/images/heels06.jpg",
-  "assets/images/heels07.jpg",
-  "assets/images/heels08.jpg",
-  "assets/images/heels09.jpg",
-  "assets/images/heels10.jpg",
+  "assets/images/heels2.jpg",
+  "assets/images/heels3.jpg",
+  "assets/images/heels4.jpg",
+  "assets/images/heels5.jpg",
+  "assets/images/heels6.jpg",
+  "assets/images/heels7.jpg",
+  "assets/images/heels3.jpg",
+  "assets/images/heels5.jpg",
+  "assets/images/heels1.jpg",
 ];
 
 List<String> accessoryNames = [
@@ -248,16 +247,16 @@ List<String> accessoryDescriptions = [
 ];
 
 List<String> accessoryImages = [
-  "assets/images/pic1.png",
-  "assets/images/pic2.png",
-  "assets/images/pic3.png",
-  "assets/images/pic4.png",
-  "assets/images/pic5.png",
-  "assets/images/pic6.png",
-  "assets/images/pic7.png",
-  "assets/images/pic8.png",
-  "assets/images/pic9.png",
-  "assets/images/pic10.png",
+  "assets/images/accessories01.jpg",
+  "assets/images/accessories02.jpg",
+  "assets/images/accessories03.jpg",
+  "assets/images/accessories04.jpg",
+  "assets/images/accessories05.jpg",
+  "assets/images/accessories06.jpg",
+  "assets/images/accessories07.jpg",
+  "assets/images/accessories08.jpg",
+  "assets/images/accessories09.jpg",
+  "assets/images/accessories10.jpg",
 ];
 
 List<String> jacketNames = [
@@ -302,14 +301,13 @@ List<String> jacketDescriptions = [
 List<String> jacketImages = [
   "assets/images/jackets1.jpg",
   "assets/images/jackets2.jpg",
-  "assets/images/jackets2.jpg",
   "assets/images/jackets3.jpg",
   "assets/images/jackets4.jpg",
   "assets/images/jackets5.jpg",
   "assets/images/jackets6.jpg",
   "assets/images/jackets5.jpg",
   "assets/images/jackets7.jpg",
-  "assets/images/jackets7.jpg",
   "assets/images/jackets8.jpg",
-  "assets/images/jackets8.jpg",
+  "assets/images/jackets5.jpg",
+  "assets/images/jackets1.jpg",
 ];

@@ -50,9 +50,12 @@ class AllCategoriesList extends StatelessWidget {
                     padding: EdgeInsets.all(10),
                     child: ListTile(
                       onTap: () {
-                        Navigator.of(context).push(MaterialPageRoute(
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
                             builder: (context) => CategoryPage(
-                                category: fashionData["categories"][index])));
+                                category: fashionData["categories"][index]),
+                          ),
+                        );
                       },
                       leading: Image.asset(
                         fashionData["images"][index],
